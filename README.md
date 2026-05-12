@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>- 🎓 Sophomore @ VIT Chennai pursuing Integrated M.Tech in Software Engineering<br>- 💻 Interested in Cybersecurity & Web Development<br>- 🌱 Currently learning AI/ML<br>- 🤝 Open to collaborating on tech projects<br>- 💬 Ask me about Programming & GitHub<br>- ⚡ Fun fact: I love building creative projects
+- 🎓 Sophomore @ VIT Chennai pursuing Integrated M.Tech in Software Engineering<br>- 💻 Interested in Cybersecurity & Web Development<br>- 🌱 Currently learning AI/ML<br>- 🤝 Open to collaborating on tech projects<br>- 💬 Ask me about Programming & GitHub<br>- ⚡ Fun fact: I love building creative projects
 
 
 ## 🌐 Socials:
